@@ -6,3 +6,6 @@ A comparison between PLU decomposition, Classical Gram-Schmidt and Modified Gram
 
 ### CG.ipynb
 Conjugate gradient iterative method and condition number calculation of a matrix.
+
+### Integrals.ipynb
+Calculation of various integrals using different methods.
