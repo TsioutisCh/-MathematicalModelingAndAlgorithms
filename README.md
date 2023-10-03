@@ -9,3 +9,6 @@ Conjugate gradient iterative method and condition number calculation of a matrix
 
 ### Integrals.ipynb
 Calculation of various integrals using different methods.
+
+### Influenza.ipynb
+Implementation of various algorithms for an influenza epidemic model. (Runge–Kutta, SIR)
